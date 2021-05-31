@@ -1,2 +1,2 @@
-### Code for generating a maze and the solving it using the A* algorithm
-#test
+### Maze generation with recursive backtracker and shortest path solution with A*
+Contains Python code for generating a maze using recusrive backtracking and then solving this randomly generated maze using the pathfinding algoritm A* 
